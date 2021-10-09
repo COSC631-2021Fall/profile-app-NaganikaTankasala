@@ -1,11 +1,12 @@
-
-
+import './App.css';
+import NavBar from "./Navbar";
 
 function App() {
   return (
     <div>
       <body>
   <div class="wrapper">
+    <NavBar></NavBar>
     
     <div class="left">
       <img class="profile-picture" src="file:///C:/Users/aradh/OneDrive/Desktop/index.html/profile.JPG" width="200"/>
